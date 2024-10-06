@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Adrian Jargilo!
 
+
 🎓 I'm currently studying **Cybersecurity** at Wrocław University of Science and Technology, specializing in **Telecommunication Network Security**.
 
 🌐 I'm passionate about **networking, cybersecurity**, and securing IT infrastructures. I hold multiple certifications from **Cisco Networking Academy**, including **CCNA** in Security, Routing, and Switching, and have extensive practical experience in configuring, securing, and troubleshooting network systems.
